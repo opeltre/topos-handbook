@@ -43,12 +43,13 @@ although a couple centuries old, describe a great number of
 (almost) synonymous models used in machine learning and statistics: 
 Boltzmann machines, graphical models, belief networks, energy based models, 
 Markov random fiels... 
+
 The generalized belief propagation algorithm (GBP) 
 introduced in (Yedidia Freeman Weiss 2005), is a
 message-passing algorithm providing a
 powerful tool to estimate the statistics of such models 
 and compute local approximations of global functionals.
-We introduce GBP and its variants in [IV]
+We introduce GBP and its variants in ([IV])
 
 ## Contents 
 

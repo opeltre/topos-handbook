@@ -47,11 +47,11 @@ Boltzmann machines, graphical models, belief networks, energy based models,
 Markov random fiels... 
 
 The generalized belief propagation algorithm (GBP) 
-introduced in (Yedidia Freeman Weiss 2005), is a
+introduced in (Yedidia Freeman Weiss, 2005), is a
 message-passing algorithm providing a
 powerful tool to estimate the statistics of such models 
 and compute local approximations of global functionals.
-We introduce GBP and its variants in ([IV])
+We introduce GBP and its variants in ([IV]).
 
 ## Contents 
 
@@ -62,6 +62,12 @@ We introduce GBP and its variants in ([IV])
 
 ## References
 
-- [Maclane Eilenberg 1945], _General Theory of Natural Equivalences_, Transactions of the AMS 
+- [Maclane Eilenberg, 1945], _General Theory of Natural Equivalences_, Transactions of the AMS 
 
-[Maclane Eilenberg 1945]: https://www.ams.org/journals/tran/1945-058-00/S0002-9947-1945-0013131-6/S0002-9947-1945-0013131-6.pdf
+[Maclane Eilenberg, 1945]: https://www.ams.org/journals/tran/1945-058-00/S0002-9947-1945-0013131-6/S0002-9947-1945-0013131-6.pdf
+
+- [Yedidia Freeman Weiss, 2005], _Constructing Free Energy Approximations 
+and Generalized Belief Propagation Algorithms_,
+IEEE Transactions in Information Theory, 51 (7)
+
+[Yedidia Freeman Weiss, 2005]: https://merl.com/publications/docs/TR2004-040.pdf

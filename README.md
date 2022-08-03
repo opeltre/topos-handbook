@@ -1,8 +1,10 @@
 [topos]: https://github.com/opeltre/topos
-[I]:     I_Sheaves_Functors.ipynb
-[II]:    II_Graph_Convolution.ipynb
-[III]:   III_Equivariant_MPNN.ipynb
-[IV]:    IV_Belief_Networks.ipynb
+[I]: I_Sheaves_Functors.ipynb
+[II]: II_Graph_Convolution.ipynb
+[III]: III_Equivariant_MPNN.ipynb
+[IV]: IV_Belief_Networks.ipynb
+
+![spinGlass](assets/img/spinGlass.svg)
 
 # Topos Handbook
 
@@ -57,3 +59,9 @@ We introduce GBP and its variants in ([IV])
 - [II-Graph Convolutional Networks][II]
 - [III-Equivariant Message-Passing for Materials and Molecules][III]
 - [IV-Graphical Models, Boltzmann Machines and Belief Networks][IV]
+
+## References
+
+- [Maclane Eilenberg 1945], _General Theory of Natural Equivalences_, Transactions of the AMS 
+
+[Maclane Eilenberg 1945]: https://www.ams.org/journals/tran/1945-058-00/S0002-9947-1945-0013131-6/S0002-9947-1945-0013131-6.pdf

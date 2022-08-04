@@ -37,7 +37,7 @@ message-passing neural networks (MPNNs)
 designed for us chemical materials and molecules. 
 We show in ([III]) how one can enforce invariance and equivariance 
 properties of such networks 
-using natural transformations of $Euc(d)$-sheaves.
+using natural transformations of ${\rm Euc}_d$-sheaves.
 
 Finally, we describe general statistical systems as they occur
 in thermodynamics. The laws of Boltzmann, 
